@@ -1,8 +1,6 @@
 # Tile-Crack-Segmentation
 
-Final project of Computer Vision course.
-
-Implementation of U-Net model to segment cracks and anomalies in tile pictures.
+Implementation of U-Net model to segment cracks and anomalies in tile pictures for final project of Computer Vision course.
 
 The following steps were done for this project
 
